@@ -1,5 +1,7 @@
 # 입력한 도시의 현재 날씨와 5일치 예보 정보를 출력하는 예제 앱
 okhttp와 jackson 라이브러리를 이용하는 예제입니다.
+![네비게이션](https://raw.githubusercontent.com/suwonsmartapp/WeatherInfoExam/master/doc/Screenshot_20151230-172450.png)
+![네비게이션](https://raw.githubusercontent.com/suwonsmartapp/WeatherInfoExam/master/doc/Screenshot_20151230-172501.png)
 
 # 1. 레이아웃
 ## activity_main.xml
